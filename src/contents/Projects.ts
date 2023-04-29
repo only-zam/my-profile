@@ -34,7 +34,7 @@ export const PROJECTS: ProjectsType = [
     id: 1,
     name: "Capital Builders Quoting App",
     description:
-      "This Web Applicaton calculates the quantities needed to fabricate residential windows. It then processes all items as per current prices and generates accurate prices/quote",
+      "This Web Applicaton accepts user input on measurements and calculates the quantities/materials needed to fabricate residential windows. It then processes all items and specs as per current prices and generates accurate prices/quote",
     image: "https://pbs.twimg.com/media/Fuu-6iOWcAAz9CN?format=jpg&name=medium",
     website: "http://www.capitalbuilders.co.ke/",
     github: "https://github.com/only-zam/building-quotes-webpage",
